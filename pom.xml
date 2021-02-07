@@ -14,6 +14,7 @@
         <module>spring-boot-demo-01</module>
         <module>spring-boot-demo-02</module>
         <module>spring-boot-demo-03</module>
+        <module>spring-boot-demo-04</module>
     </modules>
 
     <properties>
